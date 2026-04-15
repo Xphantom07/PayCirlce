@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1097161377060",
+    "project_id": "paycircle-662d1",
+    "storage_bucket": "paycircle-662d1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097161377060:android:e5f38c1e3dc00de41c5fb1",
+        "android_client_info": {
+          "package_name": "com.example.pay_circle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoDlyhBhdTRvlVA6yTTvONm2ZJJmGd7m8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
